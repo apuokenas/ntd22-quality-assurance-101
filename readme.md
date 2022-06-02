@@ -1,5 +1,7 @@
 # Workshop for Nordic testing Days 2022
 
+"Quality Assurance 101" by Fabian Basciani and Victor Lee at Nordic Testing Days 2022
+
 ## Code used in workshop
 
 There are 10 Tests that demonstrate how could we write quality Unit tests, which we will be walking through in the workshop
